@@ -1,10 +1,10 @@
 ### Hi there, Vishal Here!👋
 
 
-> 🔭 You can check my <a href="https://portfolio-seven-blue-92.vercel.app/">Portfolio</a>.
-> 🌱 I’m currently learning Python,Django and Javascript.
-> 👯 I’m looking to collaborate on new ideas.
-> 📫 You can reach me on <a href="https://telegram.me/Psythone">Telegram</a>.
+- 🔭 You can check my <a href="https://portfolio-seven-blue-92.vercel.app/">Portfolio</a>.
+- 🌱 I’m currently learning Python,Django and Javascript.
+- 👯 I’m looking to collaborate on new ideas.
+- 📫 You can reach me on <a href="https://telegram.me/Psythone">Telegram</a>.
 
 
 
