@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Yadav</h1>
 <h3 align="center">A programmer/student from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=XEGENDvy&label=Profile%20views&color=0e75b6&style=flat" alt="XEGENDvy" /> </p>
+
+
 - 🔭 You can check my <a href="https://portfolio-seven-blue-92.vercel.app/">Portfolio</a>.
 - 🌱 I’m currently learning Python,Django and Javascript.
 - 👯 I’m looking to collaborate on new ideas.
