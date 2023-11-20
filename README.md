@@ -1,6 +1,6 @@
 ### Hi there, Vishal Here!👋
 
-<p style="font-size:20px">
+<p style="font-size:100px">
 - 🔭 You can check my <a href="portfolio-seven-blue-92.vercel.app">portfolio</a>.
 - 🌱 I’m currently learning Python,Django and Javascript.
 - 👯 I’m looking to collaborate on new ideas.
