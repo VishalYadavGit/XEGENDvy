@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=XEGENDvy&label=Profile%20views&color=0e75b6&style=flat" alt="XEGENDvy" /> </p>
 
 
-- 🔭 You can check my <a href="https://portfolio-seven-blue-92.vercel.app/">Portfolio</a>.
+- 🔭 You can check my <a href="vishalyadav.tech">Portfolio</a>.
 - 🌱 I’m currently learning Python,Django and Javascript.
 - 👯 I’m looking to collaborate on new ideas.
 - 📫 You can reach me on <a href="https://telegram.me/Psythone">Telegram</a>.
