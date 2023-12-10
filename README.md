@@ -2,7 +2,7 @@
 <h3 align="center">A programmer/student from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=XEGENDvy&label=Profile%20views&color=0e75b6&style=flat" alt="XEGENDvy" /> </p>
 
-Visit <a href="https://vishalyadav.tech" color="blue">vishalyadav.tech</a>
+Visit <a href="www.vishalyadav.tech" color="blue">vishalyadav.tech</a>
 - 🔭 You can check my <a href="vishalyadav.tech">Portfolio</a>.
 - 🌱 I’m currently learning Python,Django and Javascript.
 - 👯 I’m looking to collaborate on new ideas.
